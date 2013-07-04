@@ -1,4 +1,4 @@
-blog
-====
+A Boring Pelican Blog
+=====================
 
-Blog Repository
+Hey look, it's a repository for someone's blog. What a boring use for github...
